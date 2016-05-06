@@ -24,8 +24,8 @@ exports.match = function (url) {
 
 exports.getVideos = function (url, callback) {
 
-  log('因为爱奇艺的某些原因不让播, 所以你热就热吧。');
-  return;
+  //log('因为爱奇艺的某些原因不让播, 所以你热就热吧。');
+  //return;
 
   var uid = ''
   try{
